@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sportech</string>
+    <string name="sifremi_unuttum">Şifremi unuttum</string>
+    <string name="login">Giriş</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Şifre</string>
+    <string name="kayit_ol">Kaydol</string>
+    <string name="user_photo"></string>
+    <string name="title_activity_event_list">EventListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="age_sign_up_array">
+        <item> less than 18</item>
+        <item>18-24</item>
+        <item>25-30</item>
+        <item>31-35</item>
+        <item>36-40</item>
+        <item>41-45</item>
+        <item>46-50</item>
+        <item>51-55</item>
+        <item>56-65</item>
+        <item>66-75</item>
+        <item> more than 76</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isim">İsim</string>
+    <string name="kayit">Kayıt</string>
+    <string name="yasgrubunu_sign_in">Yaş grubunu seçin</string>
+    <string name="photo_url">Photo url</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="yeni_hesap_olustur">Yeni Hesap Oluştur</string>
+
+
+</resources>
